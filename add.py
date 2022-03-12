@@ -1,0 +1,120 @@
+print(3+9)
+print(5+4*5)
+print((5+6)*(8-3))
+print(100//3)
+print(100/3)
+print(4**3)
+print(4*3)
+print(3+5)
+print(100%3)
+print(200-38)
+doorNo=50
+print(doorNo)
+print("sathishjaddu")
+TAMIL=100
+tamil1=89
+_tamil=33
+__english=88
+print(TAMIL)
+print(tamil1)
+print(_tamil)
+print(__english)
+_maths_=99
+print(_maths_)
+no=1234.56789
+print(no)
+print(round(no))
+print(round(no,2))
+print(type(no))
+print(id(no))
+result=True
+print(result)
+print(type(result))
+print(id(result))
+name="sathish"
+print(len(name))
+no=1.234567891011121314
+print(no)
+no=1E4
+print(no)
+n1=19+7j
+n2=12+9j
+total=n1+n2
+print(total)
+print(total.real)
+print(total.imag)
+print(True+True)
+print(True+False)
+print(False+False)
+n1=10
+n2=20
+print(n1<n2)
+print(n1>n2)
+print(n1==n2)
+print(n1!=n2)
+name="sathish"
+area="ariyapuram"
+print(name+area)
+s1="abcdefghijklmnopqrstuvwxyz"
+print(s1[0])
+print(s1[1])
+print(s1[2])
+print(s1[3])
+print(s1[4])
+print(s1[-1])
+print(s1[-2])
+print(s1[0:12])
+print(s1[-12:])
+print(s1[0:13])
+print(s1[-1:-26:-2])
+print(s1[-26:26])
+#palindrome
+name="sathish"
+print(name)
+name1=name[::-1]
+print(name1)
+print(name==name1)
+value=12.56
+print(int(value))
+value1=123
+print(float(value1))
+print(complex(False))
+print(type("10"))
+print(complex(10,20))
+print(complex("10"))
+print(complex(False,True))
+print(bool("False"))
+marks=[99,87,7,89,90]
+print(marks)
+print(type(marks))
+marks=bytes(marks)
+print(marks)
+print(type(marks))
+print(marks[0])
+print(marks[4])
+total=0
+for mark in marks:
+    print(mark)
+    total=total+mark
+print(total)
+###
+#print("How do get input")
+#no=float(input("Enter the Value:"))
+#print("no:",no)
+#print("no+5=",no+5)
+print("hi hello")
+print("hi\thello")
+print("hi\nhello")
+print("""i'm sathish""")
+print("I\'m fine")
+n0=120
+n0*=3
+print(n0)
+n1=23
+n2=32
+n3=100 if n1<n2 else 200
+print(n3)
+sen="sathish KUMAR IDGHHAFDHGSDHHSLKDDURAHSFH"
+print("z" in sen)
+print("z" not in sen)
+print("sathish" in sen)
